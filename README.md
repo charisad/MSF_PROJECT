@@ -1,5 +1,5 @@
-# DjangoRabbitMQ
-A simpleproject where quotes created at the Quotes project are passed as messages using RabbitMQ and appropiate operations done on them at the receiving end, the Likes project.
+# Django Rest Project MSF AFRICA
+A project to show how two services(APIS) communicate with each other.
 
 The Home project is used to demonstrate how to use the two APIs in a single web page.
 
