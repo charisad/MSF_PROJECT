@@ -1,4 +1,4 @@
-# Django Rest Project MSF AFRICA
+# Django Rest Project MFS AFRICA
 A project to show how two services(APIS) communicate with each other.
 
 The Home project is used to demonstrate how to use the two APIs in a single web page.
